@@ -19,7 +19,7 @@
 
 -- navbar.header:
 logo: $assets.files.images.logo.svg
-logoURL: /YOUR_REPOSITORY_NAME
+logoURL: /portfolio 
 header-item1: Home
 header-item2: About
 header-item3: Blogs
@@ -42,8 +42,7 @@ cta-item2-link: /YOUR_REPOSITORY_NAME/resume
 
 -- toast.stack:
 title: Hello, I'm aspiring fastn developer based in India
-link: https://github.com/YOUR_GITHUB_USERNAME
-
+link: https://github.com/Onkar2087
 ;; -----------------------------------------------------
 ;; ***** PORTFOLIO Toast ends *****
 ;; -----------------------------------------------------
@@ -76,7 +75,8 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: YOUR_NAME,
+secondTitle: Onkar,
+
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
